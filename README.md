@@ -1,4 +1,8 @@
-### Hi there 👋
+# Profile
+- Hajeong Lee
+- Gachon University
+- AI-Software department (Software)
+
 
 <!--
 **2hajeong/2hajeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
