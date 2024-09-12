@@ -1,7 +1,7 @@
 # Profile
 - Hajeong Lee
 - Gachon University
-- AI-Software department (Software)
+- AI·Software department (Software)
 
 
 <!--
